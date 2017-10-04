@@ -1,0 +1,9 @@
+[package]
+authors = ["Jeff Muizelaar <jmuizelaar@mozilla.com>"]
+name = "serde-fast"
+version = "0.1.0"
+
+[dependencies]
+bincode = "0.8.0"
+serde = "1.0.15"
+serde_derive = "1.0.15"
